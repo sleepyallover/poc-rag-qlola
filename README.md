@@ -6,7 +6,7 @@ Flow:<br>
 <img src="images/flow.png" width="500"/> 
 <br>
 Result:<br>
-<img src="images/example.png" width="500"/>
+<img src="images/example.jpeg" width="500"/>
 This PoC uses:
 - OpenAI gpt-4o-mini
 - Supabase to store postgresql dummy data
