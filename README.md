@@ -2,12 +2,12 @@
 This is a Proof of Concept of an RAG-based augmented analytics.
 The goal is simple: to help business users to analyze QLola performance easier by creating a gpt-style chatbot.
 
-###Flow:<br>
+### Flow:<br>
 <img src="images/flow.png" width="500"/> 
 <br>
 <br>
 
-###Result:<br>
+### Result:<br>
 <img src="images/example.jpeg" width="500"/>
 <br>
 <br>
