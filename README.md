@@ -12,8 +12,8 @@ The goal is simple: to help business users to analyze QLola performance easier b
 <br>
 <br>
 This PoC uses:
-- OpenAI gpt-4o-mini
-- Supabase to store postgresql dummy data
-- Streamlit
-- Google Cloud Run 
-- No vectorDB (yet), all the rules can be stored in prompt so far
+* OpenAI gpt-4o-mini
+* Supabase to store postgresql dummy data
+* Streamlit
+* Google Cloud Run
+* No vectorDB (yet), all the rules can be stored in prompt so far
