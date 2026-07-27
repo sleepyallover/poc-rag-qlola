@@ -1,4 +1,4 @@
-# PoC RAG QLola
+# PoC RAG Augmented Analytics
 This is a Proof of Concept of an RAG-based augmented analytics.
 The goal is simple: to help business users to analyze QLola performance easier by creating a gpt-style chatbot.
 
