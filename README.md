@@ -1,6 +1,6 @@
 # PoC RAG Augmented Analytics
 This is a Proof of Concept of an RAG-based augmented analytics.
-The goal is simple: to help business users to analyze QLola performance easier by creating a gpt-style chatbot.
+The goal is simple: to help business users to analyze mobile banking product performance easier by creating a gpt-style chatbot.
 
 ### Flow:<br>
 <img src="images/flow.png" width="500"/> 
